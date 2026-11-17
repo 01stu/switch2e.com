@@ -1,0 +1,2082 @@
+{
+  "eglantine": {
+    "fetchedAt": "2026-11-13T13:25:44.748Z",
+    "releases": [
+      {
+        "tag": "daily-20261112",
+        "title": "Eglantine Build 12/11/2026",
+        "url": "https://github.com/Eglantine-Community/Eglantine/releases/tag/daily-20261112",
+        "publishedAt": "2026-11-12T20:46:23Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "eglantine-linux-aarch64-pgo.AppImage",
+            "size": 134224392,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64-pgo.tar.gz",
+            "size": 27305521,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-aarch64.AppImage",
+            "size": 106629640,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-aarch64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64.tar.gz",
+            "size": 32696869,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.AppImage",
+            "size": 142854648,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.tar.gz",
+            "size": 28956713,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64.AppImage",
+            "size": 114129400,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-x86_64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64.tar.gz",
+            "size": 35344108,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "eglantine-macos-arm64.dmg",
+            "size": 86964651,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-macos-arm64.dmg"
+          },
+          {
+            "name": "eglantine-macos-arm64.zip",
+            "size": 78527338,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-macos-arm64.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64-pgo.zip",
+            "size": 72515729,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64.zip",
+            "size": 113963051,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261112/eglantine-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "branch-updater-tester-builds-b7704dc8",
+        "title": "Eglantine Branch: Tester builds: follow a branch or PR and build it on the user's machine",
+        "url": "https://github.com/Eglantine-Community/Eglantine/releases/tag/branch-updater-tester-builds-b7704dc8",
+        "publishedAt": "2026-11-12T13:39:40Z",
+        "prerelease": true,
+        "caution": true,
+        "assets": [
+          {
+            "name": "eglantine-linux-aarch64.AppImage",
+            "size": 110324232,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-updater-tester-builds-b7704dc8/eglantine-linux-aarch64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64.tar.gz",
+            "size": 38722237,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-updater-tester-builds-b7704dc8/eglantine-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64.AppImage",
+            "size": 117058040,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-updater-tester-builds-b7704dc8/eglantine-linux-x86_64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64.tar.gz",
+            "size": 40768724,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-updater-tester-builds-b7704dc8/eglantine-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "eglantine-windows-x86_64.zip",
+            "size": 114128510,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-updater-tester-builds-b7704dc8/eglantine-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "branch-nx2-experimental-efb9fb18",
+        "title": "Eglantine Branch: nx2-experimental",
+        "url": "https://github.com/Eglantine-Community/Eglantine/releases/tag/branch-nx2-experimental-efb9fb18",
+        "publishedAt": "2026-11-12T04:07:34Z",
+        "prerelease": true,
+        "caution": true,
+        "assets": [
+          {
+            "name": "eglantine-linux-aarch64-pgo.AppImage",
+            "size": 134203912,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64-pgo.tar.gz",
+            "size": 27293016,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-aarch64.AppImage",
+            "size": 106654216,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-aarch64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64.tar.gz",
+            "size": 32752008,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.AppImage",
+            "size": 142850552,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.tar.gz",
+            "size": 28945200,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64.AppImage",
+            "size": 114211320,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-x86_64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64.tar.gz",
+            "size": 35423511,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "eglantine-macos-arm64.dmg",
+            "size": 86935331,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-macos-arm64.dmg"
+          },
+          {
+            "name": "eglantine-macos-arm64.zip",
+            "size": 78508823,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-macos-arm64.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64-pgo.zip",
+            "size": 72493081,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64.zip",
+            "size": 113965245,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/branch-nx2-experimental-efb9fb18/eglantine-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "daily-20261109",
+        "title": "Eglantine Build 09/11/2026",
+        "url": "https://github.com/Eglantine-Community/Eglantine/releases/tag/daily-20261109",
+        "publishedAt": "2026-11-09T11:04:48Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "eglantine-linux-aarch64-pgo.AppImage",
+            "size": 131893768,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64-pgo.tar.gz",
+            "size": 24724908,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-aarch64.AppImage",
+            "size": 103807496,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-aarch64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64.tar.gz",
+            "size": 29608570,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.AppImage",
+            "size": 140401144,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.tar.gz",
+            "size": 26262362,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64.AppImage",
+            "size": 110991864,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-x86_64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64.tar.gz",
+            "size": 31906447,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "eglantine-macos-arm64.dmg",
+            "size": 84391411,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-macos-arm64.dmg"
+          },
+          {
+            "name": "eglantine-macos-arm64.zip",
+            "size": 76131911,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-macos-arm64.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64-pgo.zip",
+            "size": 69812975,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64.zip",
+            "size": 111202169,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/daily-20261109/eglantine-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.0-rc3",
+        "title": "Eglantine v0.1.0-rc3",
+        "url": "https://github.com/Eglantine-Community/Eglantine/releases/tag/v0.1.0-rc3",
+        "publishedAt": "2026-11-08T16:21:38Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "eglantine-linux-aarch64-pgo.AppImage",
+            "size": 131893768,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64-pgo.tar.gz",
+            "size": 24714322,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-aarch64.AppImage",
+            "size": 103803400,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-aarch64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-aarch64.tar.gz",
+            "size": 29595552,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.AppImage",
+            "size": 140405240,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64-pgo.tar.gz",
+            "size": 26247487,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "eglantine-linux-x86_64.AppImage",
+            "size": 110979576,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-x86_64.AppImage"
+          },
+          {
+            "name": "eglantine-linux-x86_64.tar.gz",
+            "size": 31895309,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "eglantine-macos-arm64.dmg",
+            "size": 85559895,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-macos-arm64.dmg"
+          },
+          {
+            "name": "eglantine-macos-arm64.zip",
+            "size": 76125142,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-macos-arm64.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64-pgo.zip",
+            "size": 69800401,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "eglantine-windows-x86_64.zip",
+            "size": 111234619,
+            "url": "https://github.com/Eglantine-Community/Eglantine/releases/download/v0.1.0-rc3/eglantine-windows-x86_64.zip"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:44.708Z",
+    "latestCommit": {
+      "sha": "66ce46feb67a184ee4adae59ed07cf89c72aac9c",
+      "url": "https://github.com/Eglantine-Community/Eglantine/commit/66ce46feb67a184ee4adae59ed07cf89c72aac9c",
+      "committedAt": "2026-11-12T18:40:27Z"
+    }
+  },
+  "lichii": {
+    "fetchedAt": "2026-11-13T13:25:44.459Z",
+    "releases": [
+      {
+        "tag": "build-160",
+        "title": "Lichii nx2 build 160 (2eb5f08)",
+        "url": "https://github.com/zortos293/Lichii/releases/tag/build-160",
+        "publishedAt": "2026-11-11T22:06:26Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "lichii-linux-aarch64-pgo.AppImage",
+            "size": 135477768,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64-pgo.tar.gz",
+            "size": 146288148,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-aarch64.AppImage",
+            "size": 107633160,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-aarch64.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64.tar.gz",
+            "size": 116728421,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.AppImage",
+            "size": 144095736,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.tar.gz",
+            "size": 155150185,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64.AppImage",
+            "size": 115538424,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-x86_64.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64.tar.gz",
+            "size": 124922838,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "lichii-macos-arm64.dmg",
+            "size": 87990370,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-macos-arm64.dmg"
+          },
+          {
+            "name": "lichii-macos-arm64.zip",
+            "size": 79273315,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-macos-arm64.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64-pgo.zip",
+            "size": 90614716,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64.zip",
+            "size": 90057554,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-160/lichii-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "build-150",
+        "title": "Lichii nx2 build 150 (17baed7)",
+        "url": "https://github.com/zortos293/Lichii/releases/tag/build-150",
+        "publishedAt": "2026-11-10T21:39:58Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "lichii-linux-aarch64-pgo.AppImage",
+            "size": 135850504,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64-pgo.tar.gz",
+            "size": 146751431,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-aarch64.AppImage",
+            "size": 107944456,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-aarch64.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64.tar.gz",
+            "size": 117057578,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.AppImage",
+            "size": 144574968,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.tar.gz",
+            "size": 155695882,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64.AppImage",
+            "size": 115923448,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-x86_64.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64.tar.gz",
+            "size": 125351946,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "lichii-macos-arm64.dmg",
+            "size": 92323733,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-macos-arm64.dmg"
+          },
+          {
+            "name": "lichii-macos-arm64.zip",
+            "size": 83389551,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-macos-arm64.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64-pgo.zip",
+            "size": 91799326,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64.zip",
+            "size": 91226322,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-150/lichii-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "build-130",
+        "title": "Lichii nx2 build 130 (3dae119)",
+        "url": "https://github.com/zortos293/Lichii/releases/tag/build-130",
+        "publishedAt": "2026-11-09T17:55:37Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "lichii-linux-aarch64-pgo.AppImage",
+            "size": 134105608,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64-pgo.tar.gz",
+            "size": 26554929,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-aarch64.AppImage",
+            "size": 106121736,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-aarch64.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64.tar.gz",
+            "size": 31499258,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.AppImage",
+            "size": 142842360,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.tar.gz",
+            "size": 28257355,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64.AppImage",
+            "size": 114104824,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-x86_64.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64.tar.gz",
+            "size": 33995820,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "lichii-macos-arm64.dmg",
+            "size": 90371927,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-macos-arm64.dmg"
+          },
+          {
+            "name": "lichii-macos-arm64.zip",
+            "size": 81475099,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-macos-arm64.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64-pgo.zip",
+            "size": 89764566,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64.zip",
+            "size": 89253414,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-130/lichii-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "build-125",
+        "title": "Lichii nx2 build 125 (cbb512e)",
+        "url": "https://github.com/zortos293/Lichii/releases/tag/build-125",
+        "publishedAt": "2026-11-09T00:09:27Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "lichii-linux-aarch64-pgo.AppImage",
+            "size": 132246024,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64-pgo.tar.gz",
+            "size": 24386725,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-aarch64.AppImage",
+            "size": 104151560,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-aarch64.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64.tar.gz",
+            "size": 29273821,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.AppImage",
+            "size": 140794360,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.tar.gz",
+            "size": 25923893,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64.AppImage",
+            "size": 111946232,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-x86_64.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64.tar.gz",
+            "size": 31617913,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "lichii-macos-arm64.dmg",
+            "size": 83927994,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-macos-arm64.dmg"
+          },
+          {
+            "name": "lichii-macos-arm64.zip",
+            "size": 75475151,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-macos-arm64.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64-pgo.zip",
+            "size": 87752712,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64.zip",
+            "size": 87352192,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-125/lichii-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "build-117",
+        "title": "Lichii nx2 build 117 (89440b2)",
+        "url": "https://github.com/zortos293/Lichii/releases/tag/build-117",
+        "publishedAt": "2026-11-07T22:39:01Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "lichii-linux-aarch64-pgo.AppImage",
+            "size": 131918344,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-aarch64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64-pgo.tar.gz",
+            "size": 24013789,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-aarch64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-aarch64.AppImage",
+            "size": 103766536,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-aarch64.AppImage"
+          },
+          {
+            "name": "lichii-linux-aarch64.tar.gz",
+            "size": 28838199,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-aarch64.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.AppImage",
+            "size": 140442104,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-x86_64-pgo.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64-pgo.tar.gz",
+            "size": 25543213,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-x86_64-pgo.tar.gz"
+          },
+          {
+            "name": "lichii-linux-x86_64.AppImage",
+            "size": 111479288,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-x86_64.AppImage"
+          },
+          {
+            "name": "lichii-linux-x86_64.tar.gz",
+            "size": 31146150,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "lichii-macos-arm64.dmg",
+            "size": 84615804,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-macos-arm64.dmg"
+          },
+          {
+            "name": "lichii-macos-arm64.zip",
+            "size": 75138876,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-macos-arm64.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64-pgo.zip",
+            "size": 87342665,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-windows-x86_64-pgo.zip"
+          },
+          {
+            "name": "lichii-windows-x86_64.zip",
+            "size": 86974110,
+            "url": "https://github.com/zortos293/Lichii/releases/download/build-117/lichii-windows-x86_64.zip"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:44.151Z",
+    "latestCommit": {
+      "sha": "87d84d513c67275ad0d6ae50ba51cce76e7e3ded",
+      "url": "https://github.com/zortos293/Lichii/commit/87d84d513c67275ad0d6ae50ba51cce76e7e3ded",
+      "committedAt": "2026-11-13T08:49:23Z"
+    }
+  },
+  "pokedinner": {
+    "fetchedAt": "2026-11-13T13:25:43.880Z",
+    "releases": [
+      {
+        "tag": "2.7.7",
+        "title": "2.7.7",
+        "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/tag/2.7.7",
+        "publishedAt": "2026-11-05T11:38:28+01:00",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "2.7.7.zip",
+            "size": 65044933,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.7.7/2.7.7.zip"
+          }
+        ]
+      },
+      {
+        "tag": "2.5.0",
+        "title": "2.5.0",
+        "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/tag/2.5.0",
+        "publishedAt": "2026-11-03T02:57:11+01:00",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Eglantine-PokeDinner-2.5.0-linux-x86_64.AppImage",
+            "size": 98646520,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.5.0/Eglantine-PokeDinner-2.5.0-linux-x86_64.AppImage"
+          },
+          {
+            "name": "PokeDinner-Eglantine-2.5.0-win64.zip",
+            "size": 53226489,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.5.0/PokeDinner-Eglantine-2.5.0-win64.zip"
+          },
+          {
+            "name": "PokeDinner-macOS-arm64-216b503.zip",
+            "size": 39292851,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.5.0/PokeDinner-macOS-arm64-216b503.zip"
+          }
+        ]
+      },
+      {
+        "tag": "2.1.0a",
+        "title": "2.1.0a",
+        "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/tag/2.1.0a",
+        "publishedAt": "2026-10-31T19:37:13+01:00",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "PokeDinner-Eglantine-2.1.0-win64.zip",
+            "size": 51143647,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.1.0a/PokeDinner-Eglantine-2.1.0-win64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "2.0.0",
+        "title": "2.0.0",
+        "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/tag/2.0.0",
+        "publishedAt": "2026-10-31T11:28:07+01:00",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Eglantine-PokeDinner-2.0.0-linux-x86_64.AppImage",
+            "size": 96381432,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.0.0/Eglantine-PokeDinner-2.0.0-linux-x86_64.AppImage"
+          },
+          {
+            "name": "PokeDinner-Eglantine-2.0.0-exe-only.zip",
+            "size": 28372436,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.0.0/PokeDinner-Eglantine-2.0.0-exe-only.zip"
+          },
+          {
+            "name": "PokeDinner-Eglantine-2.0.0-win64.zip",
+            "size": 51129702,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.0.0/PokeDinner-Eglantine-2.0.0-win64.zip"
+          },
+          {
+            "name": "PokeDinner-macOS-arm64-c3ce9bc.zip",
+            "size": 38137907,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/2.0.0/PokeDinner-macOS-arm64-c3ce9bc.zip"
+          }
+        ]
+      },
+      {
+        "tag": "1.5.0",
+        "title": "1.5.0",
+        "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/tag/1.5.0",
+        "publishedAt": "2026-10-31T01:11:53+01:00",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Eglantine-PokeDinner-1.5.0-linux-x86_64.AppImage",
+            "size": 96004600,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/1.5.0/Eglantine-PokeDinner-1.5.0-linux-x86_64.AppImage"
+          },
+          {
+            "name": "PokeDinner-Eglantine-1.5.0-exe-only.zip",
+            "size": 28078557,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/1.5.0/PokeDinner-Eglantine-1.5.0-exe-only.zip"
+          },
+          {
+            "name": "PokeDinner-Eglantine-1.5.0-win64.zip",
+            "size": 50835305,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/1.5.0/PokeDinner-Eglantine-1.5.0-win64.zip"
+          },
+          {
+            "name": "PokeDinner-macOS-arm64-7dd748a.zip",
+            "size": 38410705,
+            "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/releases/download/1.5.0/PokeDinner-macOS-arm64-7dd748a.zip"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:43.864Z",
+    "latestCommit": {
+      "sha": "23f383cab532bf3834ea55f3488b48841f3c727b",
+      "url": "https://git.eden-emu.dev/Franseven/PokeDinner-a-Eglantine-Fork/commit/23f383cab532bf3834ea55f3488b48841f3c727b",
+      "committedAt": "2026-11-04T18:43:42+01:00"
+    }
+  },
+  "fortunes-eden": {
+    "fetchedAt": "2026-11-13T13:25:44.166Z",
+    "releases": [
+      {
+        "tag": "v1.6.8.6",
+        "title": "Fortune's Eden v1.6.8.6",
+        "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/tag/v1.6.8.6",
+        "publishedAt": "2026-11-12T22:47:13Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "FEFW-Stable-60FPS-Portable.zip",
+            "size": 74068942,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.6/FEFW-Stable-60FPS-Portable.zip"
+          },
+          {
+            "name": "Fortunes-Eden-linux-x86_64.tar.gz",
+            "size": 69324581,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.6/Fortunes-Eden-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "Fortunes-Eden-x86_64.AppImage",
+            "size": 69618789,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.6/Fortunes-Eden-x86_64.AppImage"
+          }
+        ]
+      },
+      {
+        "tag": "v1.6.8.5",
+        "title": "Fortune's Eden v1.6.8.5",
+        "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/tag/v1.6.8.5",
+        "publishedAt": "2026-11-12T17:39:51Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "FEFW-Stable-60FPS-Portable.zip",
+            "size": 74066147,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.5/FEFW-Stable-60FPS-Portable.zip"
+          },
+          {
+            "name": "Fortunes-Eden-linux-x86_64.tar.gz",
+            "size": 69323375,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.5/Fortunes-Eden-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "Fortunes-Eden-x86_64.AppImage",
+            "size": 69616510,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.5/Fortunes-Eden-x86_64.AppImage"
+          }
+        ]
+      },
+      {
+        "tag": "v1.6.8.4",
+        "title": "Fortune's Eden v1.6.8.4",
+        "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/tag/v1.6.8.4",
+        "publishedAt": "2026-11-12T16:57:11Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "FEFW-Stable-60FPS-Portable.zip",
+            "size": 74067924,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.4/FEFW-Stable-60FPS-Portable.zip"
+          },
+          {
+            "name": "Fortunes-Eden-linux-x86_64.tar.gz",
+            "size": 69325025,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.4/Fortunes-Eden-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "Fortunes-Eden-x86_64.AppImage",
+            "size": 69617736,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.4/Fortunes-Eden-x86_64.AppImage"
+          }
+        ]
+      },
+      {
+        "tag": "v1.6.8.3",
+        "title": "Fortune's Eden v1.6.8.3",
+        "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/tag/v1.6.8.3",
+        "publishedAt": "2026-11-12T14:42:09Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "FEFW-Stable-60FPS-Portable.zip",
+            "size": 74059453,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.3/FEFW-Stable-60FPS-Portable.zip"
+          },
+          {
+            "name": "Fortunes-Eden-linux-x86_64.tar.gz",
+            "size": 69322414,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.3/Fortunes-Eden-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "Fortunes-Eden-x86_64.AppImage",
+            "size": 69614253,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.3/Fortunes-Eden-x86_64.AppImage"
+          }
+        ]
+      },
+      {
+        "tag": "v1.6.8.2",
+        "title": "Fortune's Eden v1.6.8.2",
+        "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/tag/v1.6.8.2",
+        "publishedAt": "2026-11-12T11:56:07Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "FEFW-Stable-60FPS-Portable.zip",
+            "size": 74046320,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.2/FEFW-Stable-60FPS-Portable.zip"
+          },
+          {
+            "name": "Fortunes-Eden-linux-x86_64.tar.gz",
+            "size": 69315438,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.2/Fortunes-Eden-linux-x86_64.tar.gz"
+          },
+          {
+            "name": "Fortunes-Eden-x86_64.AppImage",
+            "size": 69609606,
+            "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/releases/download/v1.6.8.2/Fortunes-Eden-x86_64.AppImage"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:44.145Z",
+    "latestCommit": {
+      "sha": "a34f8c8a3a9210acf94d821d3d61ec743044a0ff",
+      "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch/commit/a34f8c8a3a9210acf94d821d3d61ec743044a0ff",
+      "committedAt": "2026-11-12T22:45:20Z"
+    }
+  },
+  "fritchii": {
+    "fetchedAt": "2026-11-13T13:25:44.088Z",
+    "releases": [
+      {
+        "tag": "fritchii-v5.8.4",
+        "title": "Fritchii v5.8.4",
+        "url": "https://github.com/Frizti/Fritchii/releases/tag/fritchii-v5.8.4",
+        "publishedAt": "2026-11-11T02:20:30Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Fritchii-v5.8.4-debug-symbols-not-needed-to-play.zip",
+            "size": 64023775,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.4/Fritchii-v5.8.4-debug-symbols-not-needed-to-play.zip"
+          },
+          {
+            "name": "Fritchii-v5.8.4-Windows-x64.zip",
+            "size": 72564448,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.4/Fritchii-v5.8.4-Windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "fritchii-v5.8.3",
+        "title": "Fritchii v5.8.3",
+        "url": "https://github.com/Frizti/Fritchii/releases/tag/fritchii-v5.8.3",
+        "publishedAt": "2026-11-11T00:38:22Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Fritchii-v5.8.3-debug-symbols-not-needed-to-play.zip",
+            "size": 63981805,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.3/Fritchii-v5.8.3-debug-symbols-not-needed-to-play.zip"
+          },
+          {
+            "name": "Fritchii-v5.8.3-Windows-x64.zip",
+            "size": 72557628,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.3/Fritchii-v5.8.3-Windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "fritchii-v5.8.2",
+        "title": "Fritchii v5.8.2",
+        "url": "https://github.com/Frizti/Fritchii/releases/tag/fritchii-v5.8.2",
+        "publishedAt": "2026-11-11T00:27:32Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Fritchii-v5.8.2-debug-symbols-not-needed-to-play.zip",
+            "size": 63908514,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.2/Fritchii-v5.8.2-debug-symbols-not-needed-to-play.zip"
+          },
+          {
+            "name": "Fritchii-v5.8.2-Windows-x64.zip",
+            "size": 72535988,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.2/Fritchii-v5.8.2-Windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "fritchii-v5.8.1",
+        "title": "Fritchii v5.8.1",
+        "url": "https://github.com/Frizti/Fritchii/releases/tag/fritchii-v5.8.1",
+        "publishedAt": "2026-11-11T00:16:10Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Fritchii-v5.8.1-debug-symbols-not-needed-to-play.zip",
+            "size": 63843138,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.1/Fritchii-v5.8.1-debug-symbols-not-needed-to-play.zip"
+          },
+          {
+            "name": "Fritchii-v5.8.1-Windows-x64.zip",
+            "size": 72525359,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8.1/Fritchii-v5.8.1-Windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "fritchii-v5.8",
+        "title": "Fritchii v5.8",
+        "url": "https://github.com/Frizti/Fritchii/releases/tag/fritchii-v5.8",
+        "publishedAt": "2026-11-10T23:52:47Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "Fritchii-v5.8-debug-symbols-not-needed-to-play.zip",
+            "size": 63798857,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8/Fritchii-v5.8-debug-symbols-not-needed-to-play.zip"
+          },
+          {
+            "name": "Fritchii-v5.8-Windows-x64.zip",
+            "size": 72515861,
+            "url": "https://github.com/Frizti/Fritchii/releases/download/fritchii-v5.8/Fritchii-v5.8-Windows-x64.zip"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:44.397Z",
+    "latestCommit": {
+      "sha": "f66ea633db6058efe31a9611718019e5bd1667eb",
+      "url": "https://github.com/Frizti/Fritchii/commit/f66ea633db6058efe31a9611718019e5bd1667eb",
+      "committedAt": "2026-11-06T08:36:35Z"
+    }
+  },
+  "selevet-eglantine": {
+    "fetchedAt": "2026-11-13T13:25:44.634Z",
+    "releases": [
+      {
+        "tag": "selevet-eglantine-performance-10",
+        "title": "Selevet Eglantine performance build 10",
+        "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/tag/selevet-eglantine-performance-10",
+        "publishedAt": "2026-11-06T21:43:30Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "selevet-eglantine-performance-10-windows-x86_64.zip",
+            "size": 25273171,
+            "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/download/selevet-eglantine-performance-10/selevet-eglantine-performance-10-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "selevet-eglantine-performance-9",
+        "title": "Selevet Eglantine performance build 9",
+        "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/tag/selevet-eglantine-performance-9",
+        "publishedAt": "2026-11-06T21:05:25Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "selevet-eglantine-performance-9-windows-x86_64.zip",
+            "size": 25272945,
+            "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/download/selevet-eglantine-performance-9/selevet-eglantine-performance-9-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "selevet-eglantine-performance-8",
+        "title": "Selevet Eglantine performance build 8 (experimental): Ocarina of Time speed-ups",
+        "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/tag/selevet-eglantine-performance-8",
+        "publishedAt": "2026-11-06T05:44:35Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "selevet-eglantine-performance-8-windows-x86_64.zip",
+            "size": 25241468,
+            "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/download/selevet-eglantine-performance-8/selevet-eglantine-performance-8-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "selevet-eglantine-performance-7",
+        "title": "Selevet Eglantine performance build 7 (experimental): Ocarina of Time",
+        "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/tag/selevet-eglantine-performance-7",
+        "publishedAt": "2026-11-05T21:27:21Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "selevet-eglantine-performance-7-windows-x86_64.zip",
+            "size": 25230864,
+            "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/download/selevet-eglantine-performance-7/selevet-eglantine-performance-7-windows-x86_64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "selevet-eglantine-performance-6",
+        "title": "Selevet Eglantine performance build 6 (experimental)",
+        "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/tag/selevet-eglantine-performance-6",
+        "publishedAt": "2026-11-03T07:20:31Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "selevet-eglantine-performance-6-30fps-patch-windows-x86_64.zip",
+            "size": 23859722,
+            "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/download/selevet-eglantine-performance-6/selevet-eglantine-performance-6-30fps-patch-windows-x86_64.zip"
+          },
+          {
+            "name": "selevet-eglantine-performance-6-windows-x86_64.zip",
+            "size": 23859146,
+            "url": "https://github.com/sylvieistaken/selevet-eglantine/releases/download/selevet-eglantine-performance-6/selevet-eglantine-performance-6-windows-x86_64.zip"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:44.155Z",
+    "latestCommit": {
+      "sha": "e43eaf27ba1050f3bd5ca0d9ef64f94c950a0963",
+      "url": "https://github.com/sylvieistaken/selevet-eglantine/commit/e43eaf27ba1050f3bd5ca0d9ef64f94c950a0963",
+      "committedAt": "2026-11-06T21:43:13Z"
+    }
+  },
+  "banana-native": {
+    "fetchedAt": "2026-11-13T13:25:43.812Z",
+    "releases": [
+      {
+        "tag": "v0.3.20",
+        "title": "v0.3.20",
+        "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/tag/v0.3.20",
+        "publishedAt": "2026-11-13T13:40:27+01:00",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "banana-native-v0.3.20.apk",
+            "size": 61348639,
+            "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/download/v0.3.20/banana-native-v0.3.20.apk"
+          }
+        ]
+      },
+      {
+        "tag": "v0.3.15",
+        "title": "v0.3.15",
+        "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/tag/v0.3.15",
+        "publishedAt": "2026-11-13T11:57:25+01:00",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "banana-native-v0.3.15.apk",
+            "size": 61295683,
+            "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/download/v0.3.15/banana-native-v0.3.15.apk"
+          }
+        ]
+      },
+      {
+        "tag": "v0.3.14",
+        "title": "v0.3.14",
+        "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/tag/v0.3.14",
+        "publishedAt": "2026-11-12T22:02:32+01:00",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "banana-native-v0.3.14.apk",
+            "size": 61101555,
+            "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/download/v0.3.14/banana-native-v0.3.14.apk"
+          }
+        ]
+      },
+      {
+        "tag": "v0.3.13",
+        "title": "v0.3.13",
+        "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/tag/v0.3.13",
+        "publishedAt": "2026-11-12T13:38:08+01:00",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "banana-native-v0.3.13.apk",
+            "size": 61001571,
+            "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/download/v0.3.13/banana-native-v0.3.13.apk"
+          }
+        ]
+      },
+      {
+        "tag": "v0.3.12",
+        "title": "v0.3.12",
+        "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/tag/v0.3.12",
+        "publishedAt": "2026-11-12T07:30:51+01:00",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "banana-native-v0.3.12.apk",
+            "size": 57661739,
+            "url": "https://git.eden-emu.dev/moceure/BananaNative/releases/download/v0.3.12/banana-native-v0.3.12.apk"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:43.925Z",
+    "latestCommit": {
+      "sha": "af2910d1b20f0a4300fbe38f04d3f44b787614a7",
+      "url": "https://git.eden-emu.dev/moceure/BananaNative/commit/af2910d1b20f0a4300fbe38f04d3f44b787614a7",
+      "committedAt": "2026-11-13T12:40:27Z"
+    }
+  },
+  "fefw-recomp": {
+    "fetchedAt": "2026-11-13T13:25:44.684Z",
+    "releases": [
+      {
+        "tag": "v0.1.7",
+        "title": "fefw-recomp 0.1.7",
+        "url": "https://github.com/Goldoire/fefw-recomp/releases/tag/v0.1.7",
+        "publishedAt": "2026-11-11T17:58:30Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "fefw-recomp-0.1.7-linux-x64.tar.gz",
+            "size": 298000755,
+            "url": "https://github.com/Goldoire/fefw-recomp/releases/download/v0.1.7/fefw-recomp-0.1.7-linux-x64.tar.gz"
+          },
+          {
+            "name": "fefw-recomp-0.1.7-win64.zip",
+            "size": 164234275,
+            "url": "https://github.com/Goldoire/fefw-recomp/releases/download/v0.1.7/fefw-recomp-0.1.7-win64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.6",
+        "title": "fefw-recomp 0.1.6",
+        "url": "https://github.com/Goldoire/fefw-recomp/releases/tag/v0.1.6",
+        "publishedAt": "2026-11-10T08:05:05Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "fefw-recomp-0.1.6-win64.zip",
+            "size": 163946410,
+            "url": "https://github.com/Goldoire/fefw-recomp/releases/download/v0.1.6/fefw-recomp-0.1.6-win64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.5",
+        "title": "fefw-recomp 0.1.5",
+        "url": "https://github.com/Goldoire/fefw-recomp/releases/tag/v0.1.5",
+        "publishedAt": "2026-11-09T07:34:33Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "fefw-recomp-0.1.5-win64.zip",
+            "size": 163861813,
+            "url": "https://github.com/Goldoire/fefw-recomp/releases/download/v0.1.5/fefw-recomp-0.1.5-win64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.4",
+        "title": "fefw-recomp 0.1.4",
+        "url": "https://github.com/Goldoire/fefw-recomp/releases/tag/v0.1.4",
+        "publishedAt": "2026-11-09T00:28:40Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "fefw-recomp-0.1.4-win64.zip",
+            "size": 163807535,
+            "url": "https://github.com/Goldoire/fefw-recomp/releases/download/v0.1.4/fefw-recomp-0.1.4-win64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.3",
+        "title": "fefw-recomp 0.1.3",
+        "url": "https://github.com/Goldoire/fefw-recomp/releases/tag/v0.1.3",
+        "publishedAt": "2026-11-08T19:38:16Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "fefw-recomp-0.1.3-win64.zip",
+            "size": 163791621,
+            "url": "https://github.com/Goldoire/fefw-recomp/releases/download/v0.1.3/fefw-recomp-0.1.3-win64.zip"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T13:25:44.277Z",
+    "latestCommit": {
+      "sha": "ed561078992c855212a2ea5e4ef8c98b76fe220a",
+      "url": "https://github.com/Goldoire/fefw-recomp/commit/ed561078992c855212a2ea5e4ef8c98b76fe220a",
+      "committedAt": "2026-11-13T01:36:30Z"
+    }
+  },
+  "nx2navi": {
+    "fetchedAt": "2026-11-13T16:04:12.408Z",
+    "releases": [
+      {
+        "tag": "v0.10.0",
+        "title": "NX2navi 0.10.0",
+        "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.10.0",
+        "publishedAt": "2026-11-13T14:59:07Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "NX2navi-app-0.10.0.zip",
+            "size": 98112935,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.10.0/NX2navi-app-0.10.0.zip"
+          },
+          {
+            "name": "NX2navi-Linux-0.10.0-x86_64.AppImage",
+            "size": 101558776,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.10.0/NX2navi-Linux-0.10.0-x86_64.AppImage"
+          },
+          {
+            "name": "NX2navi-runtime-py3.14.9-7a37dbc9.zip",
+            "size": 40138877,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.10.0/NX2navi-runtime-py3.14.9-7a37dbc9.zip"
+          },
+          {
+            "name": "NX2navi-Setup-0.10.0.exe",
+            "size": 138554868,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.10.0/NX2navi-Setup-0.10.0.exe"
+          },
+          {
+            "name": "NX2navi-update.json",
+            "size": 13546,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.10.0/NX2navi-update.json"
+          },
+          {
+            "name": "SHA256SUMS-linux.txt",
+            "size": 103,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.10.0/SHA256SUMS-linux.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.9.2",
+        "title": "NX2navi 0.9.2",
+        "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.9.2",
+        "publishedAt": "2026-11-12T19:07:51Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "NX2navi-app-0.9.2.zip",
+            "size": 98029274,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.2/NX2navi-app-0.9.2.zip"
+          },
+          {
+            "name": "NX2navi-Linux-0.9.2-x86_64.AppImage",
+            "size": 101517816,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.2/NX2navi-Linux-0.9.2-x86_64.AppImage"
+          },
+          {
+            "name": "NX2navi-runtime-py3.14.9-7a37dbc9.zip",
+            "size": 40138875,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.2/NX2navi-runtime-py3.14.9-7a37dbc9.zip"
+          },
+          {
+            "name": "NX2navi-Setup-0.9.2.exe",
+            "size": 138469388,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.2/NX2navi-Setup-0.9.2.exe"
+          },
+          {
+            "name": "NX2navi-update.json",
+            "size": 13452,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.2/NX2navi-update.json"
+          },
+          {
+            "name": "SHA256SUMS-linux.txt",
+            "size": 102,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.2/SHA256SUMS-linux.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.9.1",
+        "title": "NX2navi 0.9.1",
+        "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.9.1",
+        "publishedAt": "2026-11-12T14:10:42Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "NX2navi-app-0.9.1.zip",
+            "size": 97793620,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.1/NX2navi-app-0.9.1.zip"
+          },
+          {
+            "name": "NX2navi-Linux-0.9.1-x86_64.AppImage",
+            "size": 101292536,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.1/NX2navi-Linux-0.9.1-x86_64.AppImage"
+          },
+          {
+            "name": "NX2navi-runtime-py3.14.9-7a37dbc9.zip",
+            "size": 40138880,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.1/NX2navi-runtime-py3.14.9-7a37dbc9.zip"
+          },
+          {
+            "name": "NX2navi-Setup-0.9.1.exe",
+            "size": 138233478,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.1/NX2navi-Setup-0.9.1.exe"
+          },
+          {
+            "name": "NX2navi-update.json",
+            "size": 11150,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.1/NX2navi-update.json"
+          },
+          {
+            "name": "SHA256SUMS-linux.txt",
+            "size": 102,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.1/SHA256SUMS-linux.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.9.0",
+        "title": "NX2navi 0.9.0",
+        "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.9.0",
+        "publishedAt": "2026-11-12T11:12:15Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "NX2navi-app-0.9.0.zip",
+            "size": 96787253,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.0/NX2navi-app-0.9.0.zip"
+          },
+          {
+            "name": "NX2navi-Linux-0.9.0-x86_64.AppImage",
+            "size": 101272056,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.0/NX2navi-Linux-0.9.0-x86_64.AppImage"
+          },
+          {
+            "name": "NX2navi-runtime-py3.14.9-7a37dbc9.zip",
+            "size": 40138876,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.0/NX2navi-runtime-py3.14.9-7a37dbc9.zip"
+          },
+          {
+            "name": "NX2navi-Setup-0.9.0.exe",
+            "size": 137226968,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.0/NX2navi-Setup-0.9.0.exe"
+          },
+          {
+            "name": "NX2navi-update.json",
+            "size": 14809,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.0/NX2navi-update.json"
+          },
+          {
+            "name": "SHA256SUMS-linux.txt",
+            "size": 102,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.9.0/SHA256SUMS-linux.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.8.0",
+        "title": "NX2navi 0.8.0",
+        "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.8.0",
+        "publishedAt": "2026-11-11T15:17:12Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "NX2navi-app-0.8.0.zip",
+            "size": 96484485,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.8.0/NX2navi-app-0.8.0.zip"
+          },
+          {
+            "name": "NX2navi-Linux-0.8.0-x86_64.AppImage",
+            "size": 101087736,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.8.0/NX2navi-Linux-0.8.0-x86_64.AppImage"
+          },
+          {
+            "name": "NX2navi-runtime-py3.14.9-7a37dbc9.zip",
+            "size": 40138875,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.8.0/NX2navi-runtime-py3.14.9-7a37dbc9.zip"
+          },
+          {
+            "name": "NX2navi-Setup-0.8.0.exe",
+            "size": 136923839,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.8.0/NX2navi-Setup-0.8.0.exe"
+          },
+          {
+            "name": "NX2navi-update.json",
+            "size": 24891,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.8.0/NX2navi-update.json"
+          },
+          {
+            "name": "SHA256SUMS-linux.txt",
+            "size": 102,
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/download/v0.8.0/SHA256SUMS-linux.txt"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-13T16:04:13.131Z",
+    "latestCommit": {
+      "sha": "5190f8e932b92cf694d9f8b5a7ef6e52c141de2a",
+      "url": "https://github.com/tangerineturtle1/NX2navi/commit/5190f8e932b92cf694d9f8b5a7ef6e52c141de2a",
+      "committedAt": "2026-11-13T14:53:26Z"
+    }
+  },
+  "longshot": {
+    "fetchedAt": "2026-11-14T13:43:39.785Z",
+    "releases": [
+      {
+        "tag": "v3.0.0-rc.3",
+        "title": "Longshot v3.0.0-rc.3",
+        "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/tag/v3.0.0-rc.3",
+        "publishedAt": "2026-11-13T13:39:40Z",
+        "prerelease": true,
+        "caution": false,
+        "launcherDownloads": [
+          {
+            "kind": "windows",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/windows"
+          },
+          {
+            "kind": "linux",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/linux"
+          },
+          {
+            "kind": "windows-portable",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/windows-portable"
+          }
+        ],
+        "assets": [
+          {
+            "name": "Longshot-v3.0.0-rc.3-x86_64.AppImage",
+            "size": 98609656,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.3/Longshot-v3.0.0-rc.3-x86_64.AppImage"
+          },
+          {
+            "name": "LongshotBuilder-v3.0.0-rc.3-windows-x64.zip",
+            "size": 41990066,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.3/LongshotBuilder-v3.0.0-rc.3-windows-x64.zip"
+          },
+          {
+            "name": "SHA256SUMS",
+            "size": 290,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.3/SHA256SUMS"
+          },
+          {
+            "name": "SHA256SUMS.sig",
+            "size": 97,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.3/SHA256SUMS.sig"
+          },
+          {
+            "name": "tools.lock",
+            "size": 8355,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.3/tools.lock"
+          }
+        ]
+      },
+      {
+        "tag": "v3.0.0-rc.2",
+        "title": "Longshot v3.0.0-rc.2",
+        "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/tag/v3.0.0-rc.2",
+        "publishedAt": "2026-11-13T09:33:03Z",
+        "prerelease": true,
+        "caution": false,
+        "launcherDownloads": [
+          {
+            "kind": "windows",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/windows"
+          },
+          {
+            "kind": "linux",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/linux"
+          },
+          {
+            "kind": "windows-portable",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/windows-portable"
+          }
+        ],
+        "assets": [
+          {
+            "name": "Longshot-v3.0.0-rc.2-x86_64.AppImage",
+            "size": 101345784,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.2/Longshot-v3.0.0-rc.2-x86_64.AppImage"
+          },
+          {
+            "name": "LongshotBuilder-v3.0.0-rc.2-windows-x64.zip",
+            "size": 73952866,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.2/LongshotBuilder-v3.0.0-rc.2-windows-x64.zip"
+          },
+          {
+            "name": "SHA256SUMS",
+            "size": 290,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.2/SHA256SUMS"
+          },
+          {
+            "name": "SHA256SUMS.sig",
+            "size": 97,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.2/SHA256SUMS.sig"
+          },
+          {
+            "name": "tools.lock",
+            "size": 8355,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.2/tools.lock"
+          }
+        ]
+      },
+      {
+        "tag": "v3.0.0-rc.1",
+        "title": "Longshot v3.0.0-rc.1",
+        "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/tag/v3.0.0-rc.1",
+        "publishedAt": "2026-11-13T06:55:30Z",
+        "prerelease": true,
+        "caution": false,
+        "launcherDownloads": [
+          {
+            "kind": "windows",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/windows"
+          },
+          {
+            "kind": "linux",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/linux"
+          },
+          {
+            "kind": "windows-portable",
+            "url": "https://longshot.magicbean.dev/download/launcher/rc/windows-portable"
+          }
+        ],
+        "assets": [
+          {
+            "name": "Longshot-v3.0.0-rc.1-x86_64.AppImage",
+            "size": 94587384,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.1/Longshot-v3.0.0-rc.1-x86_64.AppImage"
+          },
+          {
+            "name": "LongshotBuilder-v3.0.0-rc.1-windows-x64.zip",
+            "size": 73943983,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.1/LongshotBuilder-v3.0.0-rc.1-windows-x64.zip"
+          },
+          {
+            "name": "SHA256SUMS",
+            "size": 290,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.1/SHA256SUMS"
+          },
+          {
+            "name": "SHA256SUMS.sig",
+            "size": 97,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.1/SHA256SUMS.sig"
+          },
+          {
+            "name": "tools.lock",
+            "size": 6320,
+            "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases/download/v3.0.0-rc.1/tools.lock"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-14T13:43:39.379Z",
+    "latestCommit": {
+      "sha": "5e072fc8c2adadba5ea610148be1c47800ba0cca",
+      "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/commit/5e072fc8c2adadba5ea610148be1c47800ba0cca",
+      "committedAt": "2026-11-14T11:25:56Z"
+    }
+  },
+  "emblemweave": {
+    "fetchedAt": "2026-11-15T09:37:17.193Z",
+    "releases": [
+      {
+        "tag": "v0.1.16",
+        "title": "EmblemWeave 0.1.16",
+        "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/tag/v0.1.16",
+        "publishedAt": "2026-11-15T08:03:56Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "EmblemWeave-v0.1.16-shader-translator-linux-x64.tar.gz",
+            "size": 34127599,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.16/EmblemWeave-v0.1.16-shader-translator-linux-x64.tar.gz"
+          },
+          {
+            "name": "EmblemWeave-v0.1.16-windows-x64.zip",
+            "size": 48798845,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.16/EmblemWeave-v0.1.16-windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.15",
+        "title": "EmblemWeave 0.1.15",
+        "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/tag/v0.1.15",
+        "publishedAt": "2026-11-15T04:43:36Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "EmblemWeave-v0.1.15-shader-translator-linux-x64.tar.gz",
+            "size": 34127377,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.15/EmblemWeave-v0.1.15-shader-translator-linux-x64.tar.gz"
+          },
+          {
+            "name": "EmblemWeave-v0.1.15-windows-x64.zip",
+            "size": 47611913,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.15/EmblemWeave-v0.1.15-windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.14",
+        "title": "EmblemWeave 0.1.14",
+        "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/tag/v0.1.14",
+        "publishedAt": "2026-11-15T04:30:40Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "EmblemWeave-v0.1.14-shader-translator-linux-x64.tar.gz",
+            "size": 34127377,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.14/EmblemWeave-v0.1.14-shader-translator-linux-x64.tar.gz"
+          },
+          {
+            "name": "EmblemWeave-v0.1.14-windows-x64.zip",
+            "size": 47611072,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.14/EmblemWeave-v0.1.14-windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.13",
+        "title": "EmblemWeave 0.1.13",
+        "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/tag/v0.1.13",
+        "publishedAt": "2026-11-15T04:23:20Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "EmblemWeave-v0.1.13-shader-translator-linux-x64.tar.gz",
+            "size": 34127377,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.13/EmblemWeave-v0.1.13-shader-translator-linux-x64.tar.gz"
+          },
+          {
+            "name": "EmblemWeave-v0.1.13-windows-x64.zip",
+            "size": 47603274,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.13/EmblemWeave-v0.1.13-windows-x64.zip"
+          }
+        ]
+      },
+      {
+        "tag": "v0.1.12",
+        "title": "EmblemWeave 0.1.12",
+        "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/tag/v0.1.12",
+        "publishedAt": "2026-11-15T04:11:34Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "EmblemWeave-v0.1.12-shader-translator-linux-x64.tar.gz",
+            "size": 34127377,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.12/EmblemWeave-v0.1.12-shader-translator-linux-x64.tar.gz"
+          },
+          {
+            "name": "EmblemWeave-v0.1.12-windows-x64.zip",
+            "size": 47599628,
+            "url": "https://github.com/XiONDiGiTaL/EmblemWeave/releases/download/v0.1.12/EmblemWeave-v0.1.12-windows-x64.zip"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-15T09:37:17.200Z",
+    "latestCommit": {
+      "sha": "6a2613e54c43456508abd9214433db0a7de9c720",
+      "url": "https://github.com/XiONDiGiTaL/EmblemWeave/commit/6a2613e54c43456508abd9214433db0a7de9c720",
+      "committedAt": "2026-11-15T08:56:19Z"
+    }
+  },
+  "hokkaido": {
+    "fetchedAt": "2026-11-16T11:26:21.422Z",
+    "releases": [
+      {
+        "tag": "android-0.6.6",
+        "title": "Hokkaido 0.6.6",
+        "url": "https://github.com/pavelgajdo/Hokkaido/releases/tag/android-0.6.6",
+        "publishedAt": "2026-11-15T18:10:08Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "app-mainline-release.apk",
+            "size": 31174537,
+            "url": "https://github.com/pavelgajdo/Hokkaido/releases/download/android-0.6.6/app-mainline-release.apk"
+          }
+        ]
+      },
+      {
+        "tag": "android-0.6.5",
+        "title": "Hokkaido 0.6.5",
+        "url": "https://github.com/pavelgajdo/Hokkaido/releases/tag/android-0.6.5",
+        "publishedAt": "2026-11-15T13:13:58Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "app-mainline-release.apk",
+            "size": 31173469,
+            "url": "https://github.com/pavelgajdo/Hokkaido/releases/download/android-0.6.5/app-mainline-release.apk"
+          }
+        ]
+      },
+      {
+        "tag": "android-0.6.4",
+        "title": "Hokkaido 0.6.4",
+        "url": "https://github.com/pavelgajdo/Hokkaido/releases/tag/android-0.6.4",
+        "publishedAt": "2026-11-14T11:04:37Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "app-mainline-release.apk",
+            "size": 31162049,
+            "url": "https://github.com/pavelgajdo/Hokkaido/releases/download/android-0.6.4/app-mainline-release.apk"
+          }
+        ]
+      },
+      {
+        "tag": "android-test-oot-movie-end",
+        "title": "Hokkaido test: oot-movie-end",
+        "url": "https://github.com/pavelgajdo/Hokkaido/releases/tag/android-test-oot-movie-end",
+        "publishedAt": "2026-11-11T21:33:42Z",
+        "prerelease": true,
+        "caution": false,
+        "assets": [
+          {
+            "name": "app-mainline-release.apk",
+            "size": 31155669,
+            "url": "https://github.com/pavelgajdo/Hokkaido/releases/download/android-test-oot-movie-end/app-mainline-release.apk"
+          }
+        ]
+      },
+      {
+        "tag": "android-0.6.3",
+        "title": "Hokkaido 0.6.3",
+        "url": "https://github.com/pavelgajdo/Hokkaido/releases/tag/android-0.6.3",
+        "publishedAt": "2026-11-11T17:35:27Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "app-mainline-release.apk",
+            "size": 31155933,
+            "url": "https://github.com/pavelgajdo/Hokkaido/releases/download/android-0.6.3/app-mainline-release.apk"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-16T11:26:21.424Z",
+    "latestCommit": {
+      "sha": "8396939c1140247030a8db4d88db37d880764269",
+      "url": "https://github.com/pavelgajdo/Hokkaido/commit/8396939c1140247030a8db4d88db37d880764269",
+      "committedAt": "2026-11-15T17:43:28.000Z"
+    }
+  },
+  "recompia": {
+    "fetchedAt": "2026-11-16T13:49:40.472Z",
+    "releases": [
+      {
+        "tag": "v0.13.9",
+        "title": "Pokopia Recomp 0.13.9 (build Q: Quokka Hotfix a6)",
+        "url": "https://github.com/Dittobyte/Recompia/releases/tag/v0.13.9",
+        "publishedAt": "2026-11-16T09:31:21Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "PokopiaRecomp-0.13.9-linux-arm64.tar.gz",
+            "size": 142094824,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.9/PokopiaRecomp-0.13.9-linux-arm64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.9-linux-x64.tar.gz",
+            "size": 147099446,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.9/PokopiaRecomp-0.13.9-linux-x64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.9-win64.zip",
+            "size": 192754385,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.9/PokopiaRecomp-0.13.9-win64.zip"
+          },
+          {
+            "name": "Recompia-0.13.9-macos-arm64.zip",
+            "size": 65830341,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.9/Recompia-0.13.9-macos-arm64.zip"
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "size": 405,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.9/SHA256SUMS.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.13.8",
+        "title": "Pokopia Recomp 0.13.8 (build Q: Quokka Hotfix a5)",
+        "url": "https://github.com/Dittobyte/Recompia/releases/tag/v0.13.8",
+        "publishedAt": "2026-11-15T20:28:48Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "PokopiaRecomp-0.13.8-linux-arm64.tar.gz",
+            "size": 142090010,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.8/PokopiaRecomp-0.13.8-linux-arm64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.8-linux-x64.tar.gz",
+            "size": 147098023,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.8/PokopiaRecomp-0.13.8-linux-x64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.8-win64.zip",
+            "size": 192750543,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.8/PokopiaRecomp-0.13.8-win64.zip"
+          },
+          {
+            "name": "Recompia-0.13.8-macos-arm64.zip",
+            "size": 65822318,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.8/Recompia-0.13.8-macos-arm64.zip"
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "size": 405,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.8/SHA256SUMS.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.13.7",
+        "title": "Pokopia Recomp 0.13.7 (build Q: Quokka Hotfix a4)",
+        "url": "https://github.com/Dittobyte/Recompia/releases/tag/v0.13.7",
+        "publishedAt": "2026-11-15T03:43:44Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "PokopiaRecomp-0.13.7-linux-arm64.tar.gz",
+            "size": 142071021,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.7/PokopiaRecomp-0.13.7-linux-arm64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.7-linux-x64.tar.gz",
+            "size": 147089789,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.7/PokopiaRecomp-0.13.7-linux-x64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.7-win64.zip",
+            "size": 192742164,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.7/PokopiaRecomp-0.13.7-win64.zip"
+          },
+          {
+            "name": "Recompia-0.13.7-macos-arm64.zip",
+            "size": 65810411,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.7/Recompia-0.13.7-macos-arm64.zip"
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "size": 405,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.7/SHA256SUMS.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.13.6",
+        "title": "Pokopia Recomp 0.13.6 (build Q: Quokka Hotfix a3)",
+        "url": "https://github.com/Dittobyte/Recompia/releases/tag/v0.13.6",
+        "publishedAt": "2026-11-15T02:12:34Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "PokopiaRecomp-0.13.6-linux-arm64.tar.gz",
+            "size": 142076422,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.6/PokopiaRecomp-0.13.6-linux-arm64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.6-linux-x64.tar.gz",
+            "size": 147090077,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.6/PokopiaRecomp-0.13.6-linux-x64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.6-win64.zip",
+            "size": 192742304,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.6/PokopiaRecomp-0.13.6-win64.zip"
+          },
+          {
+            "name": "Recompia-0.13.6-macos-arm64.zip",
+            "size": 65810427,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.6/Recompia-0.13.6-macos-arm64.zip"
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "size": 405,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.6/SHA256SUMS.txt"
+          }
+        ]
+      },
+      {
+        "tag": "v0.13.5",
+        "title": "Pokopia Recomp 0.13.5 (build Q: Quokka Hotfix a2)",
+        "url": "https://github.com/Dittobyte/Recompia/releases/tag/v0.13.5",
+        "publishedAt": "2026-11-15T01:53:22Z",
+        "prerelease": false,
+        "caution": false,
+        "assets": [
+          {
+            "name": "PokopiaRecomp-0.13.5-linux-arm64.tar.gz",
+            "size": 132384530,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.5/PokopiaRecomp-0.13.5-linux-arm64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.5-linux-x64.tar.gz",
+            "size": 137069975,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.5/PokopiaRecomp-0.13.5-linux-x64.tar.gz"
+          },
+          {
+            "name": "PokopiaRecomp-0.13.5-win64.zip",
+            "size": 182994896,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.5/PokopiaRecomp-0.13.5-win64.zip"
+          },
+          {
+            "name": "Recompia-0.13.5-macos-arm64.zip",
+            "size": 56466070,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.5/Recompia-0.13.5-macos-arm64.zip"
+          },
+          {
+            "name": "SHA256SUMS.txt",
+            "size": 405,
+            "url": "https://github.com/Dittobyte/Recompia/releases/download/v0.13.5/SHA256SUMS.txt"
+          }
+        ]
+      }
+    ],
+    "commitFetchedAt": "2026-11-16T13:49:40.454Z",
+    "latestCommit": {
+      "sha": "2fdda31288427d5a3ebcaefc26c5d90c543df23c",
+      "url": "https://github.com/Dittobyte/Recompia/commit/2fdda31288427d5a3ebcaefc26c5d90c543df23c",
+      "committedAt": "2026-11-16T12:59:48Z"
+    }
+  }
+}
